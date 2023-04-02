@@ -13,6 +13,7 @@ network:
   3005/tcp: Plex Home Theater via Plex Companion
   8324/tcp: Plex for Roku via Plex Companion
   32400/tcp: Plex Media Server Interface
+  33400/tcp: Plex WebTools
   32410/udp: GDM network discovery
   32412/udp: GDM network discovery
   32413/udp: GDM network discovery
